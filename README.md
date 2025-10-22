@@ -72,14 +72,5 @@
 
 ---
 
-### 💖 Support My Work
-<p align="center">
-  <a href="https://www.buymeacoffee.com/asmitatagad" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="Buy Me a Coffee"/>
-  </a>
-</p>
-
----
-
 <h3 align="center">💐 Thanks for visiting my profile 💐</h3>
 <p align="center">Let’s build something amazing together 💪✨</p>
