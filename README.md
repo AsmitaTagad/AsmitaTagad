@@ -1,26 +1,22 @@
-<!-- 🌸 Elegant Developer Portfolio by Asmita Tagad -->
-
-![MasterHead](https://images.openai.com/thumbnails/url/zCoN-Hicu1mSUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4sikpNN86uyPEJMDAKNSnxKAyICgstiAgOdIrINnc1cNMt841KCqtM9U4rSa0yzXD2znA2LzL2THMLD1QrBgAYvimb)
-
 <h1 align="center">✨ Hi there, I'm <span style="color:#ff69b4;">Asmita Tagad</span> 👋</h1>
 <h3 align="center">💻 Full Stack Developer | MERN | Cloud & Scalable Systems Enthusiast ☁️</h3>
 
 <p align="center">
-  <img alt="Girl Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+  <img alt="Girl Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/15783018/media/df401e6e0972f6a9a207b52cc9519281.gif">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asmitatagad&label=Profile%20views&color=ff69b4&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=asmitatagad&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/>
 </p>
 
 ---
 
 ### 💫 About Me
-🌷 Passionate **Full Stack Developer** dedicated to building user-centric, scalable, and beautiful web applications.  
-💡 I love blending **creativity with logic** — transforming ideas into impactful digital products.  
-🌱 Constantly exploring **System Design, AWS, and DevOps** to scale solutions efficiently.  
-🎯 Currently crafting high-performance systems at **Freedygo Platforms** using **MERN Stack**.  
-💬 Let’s chat about **React.js, Node.js, MongoDB, PostgreSQL, Prisma, Firebase & AWS**.  
+🌷 Passionate **Full Stack Developer** turning ideas into beautiful, scalable web applications.  
+💡 I enjoy blending **creativity with logic**, writing code that is clean, efficient, and elegant.  
+🌱 Currently learning **System Design, AWS, and DevOps** to create production-ready solutions.  
+🎯 Working at **Freedygo Platforms** using **MERN Stack**.  
+💬 Ask me about **React.js, Node.js, MongoDB, PostgreSQL, Prisma, Firebase & AWS**.  
 📫 Reach me at **[asmitatagad18@gmail.com](mailto:asmitatagad18@gmail.com)**  
 🌐 Portfolio: [asmita-tagad-portfolio](https://68f866aaa29d71a4d4ca5a42--asmitatagadportfolio.netlify.app/)  
 
@@ -36,7 +32,7 @@
 
 ---
 
-### ⚙️ My Tech Toolbox
+### ⚙️ Tech Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgresql,prisma,firebase,aws,git,github,vscode&theme=light"/>
 </p>
@@ -50,16 +46,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmitatagad&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmitatagad&theme=rose_pine" alt="Profile Summary" />
 </p>
 
 ---
 
 ### 🌸 Featured Projects
 💻 **FreedyGo Platform** – MERN-based multi-role delivery system with real-time data sync  
-🏢 **HRMS Application** – HR admin panel with payroll, attendance & employee management  
+🏢 **HRMS Application** – Admin panel for payroll, attendance & employee management  
 🥩 **MeatA2Z** – Smart e-commerce platform for fresh meat delivery  
-🎓 **Skilotech** – Training & certification management system with analytics dashboard  
+🎓 **Skilotech** – Training & certification management portal with analytics dashboard  
 
 ---
 
@@ -81,13 +77,6 @@
   <a href="https://www.buymeacoffee.com/asmitatagad" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-pink.png" height="50" width="210" alt="Buy Me a Coffee"/>
   </a>
-</p>
-
----
-
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/asmitatagad/asmitatagad/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
