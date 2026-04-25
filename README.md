@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Software Engineer @ Damco | Backend-Focused Full Stack Engineer | MERN • PostgreSQL • Prisma • AWS
+Software Engineer | Backend-Focused Full Stack Engineer | MERN • PostgreSQL • Prisma • AWS
 </h3>
 
 <p align="center">
