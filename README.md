@@ -1,76 +1,170 @@
-<h1 align="center">✨ Hi there, I'm <span style="color:#ff69b4;">Asmita Tagad</span> 👋</h1>
-<h3 align="center">💻 Full Stack Developer | MERN | Cloud & Scalable Systems Enthusiast ☁️</h3>
+<h1 align="center">
+✨ Hi there, I'm <span style="color:#ff69b4;">Asmita Tagad</span> 👋
+</h1>
+
+<h3 align="center">
+Software Engineer @ Damco | Backend-Focused Full Stack Engineer | MERN • PostgreSQL • Prisma • AWS
+</h3>
 
 <p align="center">
-  <img alt="Girl Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/15783018/media/df401e6e0972f6a9a207b52cc9519281.gif">
+  <img alt="coding" width="420"
+  src="https://cdn.dribbble.com/users/1162077/screenshots/15783018/media/df401e6e0972f6a9a207b52cc9519281.gif">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asmitatagad&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views"/>
-</p>
-
----
-
-### 💫 About Me
-🌷 Passionate **Full Stack Developer** turning ideas into beautiful, scalable web applications.  
-💡 I enjoy blending **creativity with logic**, writing code that is clean, efficient, and elegant.  
-🌱 Currently learning **System Design, AWS, and DevOps** to create production-ready solutions.  
-🎯 Working at **Freedygo Platforms** using **MERN Stack**.  
-💬 Ask me about **React.js, Node.js, MongoDB, PostgreSQL, Prisma, Firebase & AWS**.  
-📫 Reach me at **[asmitatagad18@gmail.com](mailto:asmitatagad18@gmail.com)**  
-🌐 Portfolio: [asmita-tagad-portfolio](https://68f866aaa29d71a4d4ca5a42--asmitatagadportfolio.netlify.app/)  
-
----
-
-### 💞 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/asmita-tagad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/its_a_smita07" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/asmitatagad" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="mailto:asmitatagad18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=asmitatagad&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 </p>
 
 ---
 
-### ⚙️ Tech Toolbox
+# 👩‍💻 Engineer Profile
+
+I am a **Software Engineer at Damco** building production-grade backend systems and scalable full-stack platforms used in real operational environments.
+
+My work focuses on designing reliable APIs, optimizing database architectures, and building modular systems that scale with business requirements.
+
+Core engineering strengths:
+
+• Backend system architecture
+• REST API design for production workloads
+• PostgreSQL schema modeling with Prisma
+• Role-based authentication & access control
+• Scalable MERN platform development
+• Cloud-ready deployment using AWS
+
+Currently advancing expertise in:
+
+System Design • Distributed Architectures • CI/CD Automation • Performance Optimization
+
+---
+
+# 💼 Professional Experience
+
+## Software Engineer — Damco
+
+Contributing to enterprise-grade application development with focus on scalability, maintainability, and performance.
+
+Key engineering impact:
+
+• Designed modular REST APIs supporting production workflows
+• Built relational database architecture using PostgreSQL + Prisma
+• Implemented secure authentication and authorization layers
+• Optimized backend query performance and API response time
+• Developed scalable MERN stack services powering business modules
+• Supported cloud-aligned deployment strategies using AWS services
+
+---
+
+# 🚀 Selected Engineering Projects
+
+## MeatA2Z — Scalable Commerce Infrastructure
+
+Designed and implemented backend architecture for a transactional delivery platform.
+
+Highlights:
+
+• Structured order lifecycle APIs
+• MongoDB schema optimization for transactional data
+• Secure authentication & authorization pipeline
+• Performance-focused service-layer design
+
+---
+
+## FreedyGo — Multi-Role Logistics Coordination Platform
+
+Built scalable backend services supporting vendor, admin, and delivery workflows.
+
+Highlights:
+
+• Role-based access architecture
+• Real-time workflow data handling
+• High-throughput API layer design
+• Scalable operational database modeling
+
+---
+
+## HRMS — Workforce Automation System
+
+Developed organization-level employee lifecycle platform.
+
+Highlights:
+
+• PostgreSQL relational schema design
+• Prisma-based service architecture
+• Attendance and payroll workflow automation
+• Multi-tenant organization-ready backend structure
+
+---
+
+## Skilotech — Certification Analytics Platform
+
+Engineered structured training lifecycle and analytics workflow backend.
+
+Highlights:
+
+• Dashboard analytics architecture
+• Certification tracking workflow engine
+• Optimized relational data handling
+
+---
+
+# ⚙️ Technology Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgresql,prisma,firebase,aws,git,github,vscode&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgresql,prisma,firebase,aws,git,github,vscode&theme=light"/>
+</p>
+
+Engineering toolkit:
+
+Backend Systems • API Design • Database Modeling • Authentication Systems
+Scalable MERN Platforms • Cloud Deployment • MVC Architecture
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmitatagad&show_icons=true&theme=rose_pine&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitatagad&layout=compact&theme=rose_pine&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmitatagad&theme=rose_pine"/>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+# 📈 Currently Strengthening Expertise In
+
+• Microservices architecture patterns
+• Distributed backend system design
+• CI/CD pipelines using GitHub Actions
+• AWS (Lambda • ECS • S3 • CloudFront • RDS)
+• High-level system scalability patterns
+
+---
+
+# 🤝 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmitatagad&show_icons=true&theme=rose_pine&hide_border=true" height="165em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmitatagad&layout=compact&theme=rose_pine&hide_border=true" height="165em"/>
+  <a href="https://linkedin.com/in/asmita-tagad">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/asmitatagad">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="mailto:asmitatagad18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmitatagad&theme=rose_pine" alt="Profile Summary" />
-</p>
-
 ---
 
-### 🌸 Featured Projects
-💻 **FreedyGo Platform** – MERN-based multi-role delivery system with real-time data sync  
-🏢 **HRMS Application** – Admin panel for payroll, attendance & employee management  
-🥩 **MeatA2Z** – Smart e-commerce platform for fresh meat delivery  
-🎓 **Skilotech** – Training & certification management portal with analytics dashboard  
+# ✨ Engineering Principle
 
----
-
-### 🌼 Currently Exploring
-- 🧩 Microservices Architecture & API Gateways  
-- ⚙️ CI/CD with GitHub Actions  
-- ☁️ AWS Lambda, ECS, S3 & CloudFront  
-- 📱 React Native + Expo  
-
----
-
-### ✨ Fun Fact
-> “I believe code has emotions — it smiles when it runs without bugs.” 💖💻  
-
----
-
-<h3 align="center">💐 Thanks for visiting my profile 💐</h3>
-<p align="center">Let’s build something amazing together 💪✨</p>
+> I focus on building systems that remain reliable as they scale — not just features that work once.
