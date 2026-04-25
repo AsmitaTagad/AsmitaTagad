@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Software Engineer | Backend-Focused Full Stack Engineer | MERN • PostgreSQL • Prisma • AWS
+Software Engineer | Full Stack Engineer | Next.js • MERN • AEM • AWS
 </h3>
 
 <p align="center">
@@ -19,105 +19,120 @@ Software Engineer | Backend-Focused Full Stack Engineer | MERN • PostgreSQL �
 
 # 👩‍💻 Engineer Profile
 
-I am a **Software Engineer at Damco** building production-grade backend systems and scalable full-stack platforms used in real operational environments.
+I’m a **Software Engineer at Damco working on Bajaj Finserv’s enterprise fintech platform**, building high-performance frontend architecture and scalable production systems serving lakhs of monthly loan applications.
 
-My work focuses on designing reliable APIs, optimizing database architectures, and building modular systems that scale with business requirements.
+Previously, I architected and launched **two end-to-end production platforms as a sole developer**, handling backend APIs, admin dashboards, and mobile integrations supporting 500+ daily active users with 99.9% uptime.
 
-Core engineering strengths:
+Core strengths:
 
-• Backend system architecture
-• REST API design for production workloads
-• PostgreSQL schema modeling with Prisma
-• Role-based authentication & access control
-• Scalable MERN platform development
-• Cloud-ready deployment using AWS
-
-Currently advancing expertise in:
-
-System Design • Distributed Architectures • CI/CD Automation • Performance Optimization
+• Performance optimization (Core Web Vitals)
+• Enterprise frontend architecture (Next.js + AEM)
+• REST API system design (Node.js)
+• MongoDB schema modeling
+• Authentication & workflow automation
+• Cloud integrations (AWS + Firebase)
 
 ---
 
 # 💼 Professional Experience
 
-## Software Engineer — Damco
+## Software Engineer — Damco Solutions
 
-Contributing to enterprise-grade application development with focus on scalability, maintainability, and performance.
+Client: Bajaj Finserv
 
 Key engineering impact:
 
-• Designed modular REST APIs supporting production workflows
-• Built relational database architecture using PostgreSQL + Prisma
-• Implemented secure authentication and authorization layers
-• Optimized backend query performance and API response time
-• Developed scalable MERN stack services powering business modules
-• Supported cloud-aligned deployment strategies using AWS services
+• Improved Core Web Vitals by **30%** across multilingual fintech pages serving lakhs of monthly users
+• Built reusable **AEM component architecture** reducing feature delivery time by **40%**
+• Eliminated **100% critical GHAS & SonarQube vulnerabilities** before production release
+• Delivered production fintech modules using **TypeScript + Next.js + AEM**
+• Collaborated across product, QA, and design teams in Agile sprint environments
 
 ---
 
-# 🚀 Selected Engineering Projects
+## Full Stack Developer — FreedyGo (Setup My Hotel Pvt. Ltd.)
 
-## MeatA2Z — Scalable Commerce Infrastructure
+Worked as **sole developer** designing and launching two live platforms from scratch.
 
-Designed and implemented backend architecture for a transactional delivery platform.
+Engineering impact:
 
-Highlights:
-
-• Structured order lifecycle APIs
-• MongoDB schema optimization for transactional data
-• Secure authentication & authorization pipeline
-• Performance-focused service-layer design
-
----
-
-## FreedyGo — Multi-Role Logistics Coordination Platform
-
-Built scalable backend services supporting vendor, admin, and delivery workflows.
-
-Highlights:
-
-• Role-based access architecture
-• Real-time workflow data handling
-• High-throughput API layer design
-• Scalable operational database modeling
+• Built **FreedyGo (B2B)** hospitality supply chain system
+• Built **MeatA2Z (B2C)** delivery platform
+• Designed full backend architecture and shipped **20+ REST APIs**
+• Supported **500+ daily active users** with **99.9% uptime**
+• Reduced operational processing time by **35%** via automation dashboards
+• Designed scalable MongoDB schema for multi-tenant inventory systems
+• Integrated Firebase Auth + AWS S3 for secure login and media delivery
 
 ---
 
-## HRMS — Workforce Automation System
+# 🚀 Production Platforms
 
-Developed organization-level employee lifecycle platform.
+## Bajaj Finserv — Wheels Loan Platform
 
-Highlights:
+Enterprise fintech frontend platform processing lakhs of loan applications monthly.
 
-• PostgreSQL relational schema design
-• Prisma-based service architecture
-• Attendance and payroll workflow automation
-• Multi-tenant organization-ready backend structure
+Tech:
+
+TypeScript • Next.js • AEM • SolidJS
+
+Impact:
+
+• 30% Core Web Vitals improvement
+• Component-driven CMS architecture
+• Performance-first UI engineering
+
+---
+##Skilotech — Training & Certification Analytics Platform
+
+Enterprise-grade certification lifecycle and training analytics system.
+
+Impact:
+
+• Designed certification workflow engine for structured training pipelines  
+• Built analytics dashboards for performance tracking & reporting insights  
+• Implemented Resume and Cover letter creation.  
+• Optimized reporting architecture for operational visibility
 
 ---
 
-## Skilotech — Certification Analytics Platform
+## FreedyGo — B2B Hospitality Supply Chain Platform
 
-Engineered structured training lifecycle and analytics workflow backend.
+End-to-end logistics workflow system.
 
-Highlights:
+Impact:
 
-• Dashboard analytics architecture
-• Certification tracking workflow engine
-• Optimized relational data handling
+• Vendor & delivery workflow automation
+• Real-time operational dashboards
+• Order lifecycle API architecture
 
 ---
 
-# ⚙️ Technology Stack
+## MeatA2Z — B2C Delivery Platform
+
+Consumer delivery platform supporting real-time order tracking.
+
+Impact:
+
+• Authentication pipeline
+• Inventory-aware order lifecycle
+• Scalable MongoDB architecture
+
+---
+
+# ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgresql,prisma,firebase,aws,git,github,vscode&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,aws,git,github,vscode&theme=light"/>
 </p>
 
-Engineering toolkit:
+Specializations:
 
-Backend Systems • API Design • Database Modeling • Authentication Systems
-Scalable MERN Platforms • Cloud Deployment • MVC Architecture
+Frontend Performance Engineering
+REST API Architecture
+MongoDB Schema Design
+Enterprise CMS Integration (AEM)
+Cloud Media & Auth Systems
 
 ---
 
@@ -137,34 +152,15 @@ Scalable MERN Platforms • Cloud Deployment • MVC Architecture
 
 ---
 
-# 📈 Currently Strengthening Expertise In
+# 📈 Currently Advancing Expertise In
 
-• Microservices architecture patterns
-• Distributed backend system design
-• CI/CD pipelines using GitHub Actions
-• AWS (Lambda • ECS • S3 • CloudFront • RDS)
-• High-level system scalability patterns
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/asmita-tagad">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/asmitatagad">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-
-  <a href="mailto:asmitatagad18@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+• System Design for scalable platforms
+• Distributed architecture fundamentals
+• CI/CD with GitHub Actions
+• AWS infrastructure (S3 • EC2 • Amplify)
 
 ---
 
 # ✨ Engineering Principle
 
-> I focus on building systems that remain reliable as they scale — not just features that work once.
+> I build performance-optimized systems that scale reliably in production environments.
